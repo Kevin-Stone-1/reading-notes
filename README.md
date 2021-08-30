@@ -1,4 +1,8 @@
-# Code 102 Reading
+# Intro
+
+Hello, I'm Kevin, I'm a new. Here is my link to my github portfolio.
+
+Code 102 Reading
 
 - Reading 1
 - Reading 2
@@ -19,4 +23,9 @@ def new_func():
 
 > This is a quote from Someone.
 
+### What Growth Mindset means to me
+It means the world to me
+1. This
+2. This
+3. This
 
