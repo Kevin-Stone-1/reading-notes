@@ -24,6 +24,5 @@ def new_func():
 
 ### Favorite Quote
 > You miss all the shots you don't take.
-> Wayne Gretsky
-> Michael Scott
+> Wayne Gretsky, Michael Scott
 
