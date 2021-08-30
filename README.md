@@ -13,7 +13,7 @@
 ### This is a Heading 3
 
 ```
-def new_func()":
+def new_func():
   print('Hello World')
 ```
 
