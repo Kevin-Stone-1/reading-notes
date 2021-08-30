@@ -13,7 +13,7 @@ A growth mindset means waking up everyday ready to fail, succeed, and learn. It 
 ### Three Reminders to Keep the Growth Mindset
 1. Don't ever **give up!** 
 2. Don't be afraid to *ask* for help.
-3. You are going to --succeed everytime-- fail, and that is ok.
+3. You are going to ~~succeed everytime~~ fail, and that is ok.
 
 ### Check Out This Sweet Code Snippit
 
