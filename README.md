@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, I'm Kevin, I'm a new to coding and programming my background for the past for years has been Aviation Electronics in the US Navy. I enjoy watching and playing sports, playing my guitar, and learning new things. Here is my link to my github portfolio: [Github Profile](https://github.com/kevin-c-stone)
+Hello, I'm Kevin, I'm a new to coding and programming; my background for the past four years has been Aviation Electronics in the US Navy. I enjoy watching and playing sports, playing my guitar, and learning new things. Here is my link to my github portfolio: [Github Profile](https://github.com/kevin-c-stone)
 
 Table of Content
 
