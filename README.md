@@ -1,6 +1,6 @@
 # Intro
 
-Hello, I'm Kevin, I'm a new. Here is my link to my github portfolio.
+Hello, I'm Kevin, I'm a new. Here is my link to my github portfolio. https://github.com/Kevin-Stone-1
 
 Code 102 Reading
 
