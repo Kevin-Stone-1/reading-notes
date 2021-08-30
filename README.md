@@ -1,31 +1,29 @@
-# Intro
+# Introduction
 
-Hello, I'm Kevin, I'm a new. Here is my link to my github portfolio. https://github.com/Kevin-Stone-1
+Hello, I'm Kevin, I'm a new to coding and programming my background for the past for years has been Aviation Electronics in the US Navy. I enjoy watching and playing sports, playing my guitar, and learning new things. Here is my link to my github portfolio: [Github Profile](https://github.com/kevin-c-stone)
 
-Code 102 Reading
+Table of Content
 
-- Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
-- Reading 6
-- Reading 7
-- Reading 8
+- [Reading 1](markdown.md)
 
-## This is a Heading 2
-### This is a Heading 3
+## What Does a Growth Mindset Mean to Me?
+
+A growth mindset means waking up everyday ready to fail, succeed, and learn. It is making sure that oneself has the grit, tenacity, and open mindset to attempt any challenge and learn from others in the process.
+
+### Three Reminders to Keep the Growth Mindset
+1. Don't ever **give up!** 
+2. Don't be afraid to *ask* for help.
+3. You are going to --succeed everytime-- fail, and that is ok.
+
+### Check Out This Sweet Code Snippit
 
 ```python
 def new_func():
   print('Hello World')
 ```
 
-> This is a quote from Someone.
-
-### What Growth Mindset means to me
-It means the world to me
-1. This
-2. This
-3. This
+### Favorite Quote
+> You miss all the shots you don't take.
+> Wayne Gretsky
+> Michael Scott
 
