@@ -1,6 +1,6 @@
 # What is Git?
 
-Git is one of the largest and most utilized Version Control Systems in the world. A fun fact is that the creator of Linux, Linus Torvalds, is also the creator of Git.
+Git is one of the largest and most-utilized Version Control Systems in the world. A fun fact is that the creator of Linux, Linus Torvalds, is also the creator of Git.
 
 ## What is Version control?
 
