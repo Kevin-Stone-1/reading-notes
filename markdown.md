@@ -26,11 +26,11 @@ Markdown is a wonderfully simple way to write easy syntax for formatting plain t
    
 4. Styling texts: by styling texts you can use the different 
    - **This is bold** 
-       -\** ** to BOLD
+       \** ** to BOLD
    - *This is italicized*
-       -\* * to ITALICIZE
+       \* * to ITALICIZE
    - ~~This is a strikethrough~~
-       -\~~ ~~ to STRIKETHROUGH
+       \~~ ~~ to STRIKETHROUGH
 
 ### Review
 With these three basic formatts we can create a simple webpage on GitHub via Markdown. Why don't you try it out yourself?
