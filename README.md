@@ -7,7 +7,7 @@ Table of Contents
 - [R1 - Markdown](markdown.md)
 - [R2 - Text Editor](text-editor.md)
 - [R3 - Git](git.md)
-- [R4 - ](text-editor.md)
+- [R4 - HTML](html.md)
 - [R5 - ](text-editor.md)
 - [R6 - ](text-editor.md)
 - [R7 - ](text-editor.md)

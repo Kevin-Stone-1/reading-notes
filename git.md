@@ -9,3 +9,5 @@ Version control is a system that allows you to go back to previously saved versi
 ## What is Distributed Version Control?
 
 There is also something called Distributed Version Control that makes things very convenient when you are collaborating with other people. It is similar to a Google Doc that multiple people can work on at the same time and is updated constantly.
+
+[Home](README.md)
