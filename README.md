@@ -4,8 +4,14 @@ Hello, I'm Kevin, I'm a new to coding and programming; my background for the pas
 
 Table of Content
 
-- [Markdown](markdown.md)
-- [Text Editor](text-editor.md)
+- [R1 - Markdown](markdown.md)
+- [R2 - Text Editor](text-editor.md)
+- [R3 -  ](text-editor.md)
+- [R4 - Text Editor](text-editor.md)
+- [R5 - Text Editor](text-editor.md)
+- [R6 - Text Editor](text-editor.md)
+- [R7 - Text Editor](text-editor.md)
+- [R8 - Text Editor](text-editor.md)
 
 ## What Does a Growth Mindset Mean to Me?
 
