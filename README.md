@@ -4,7 +4,8 @@ Hello, I'm Kevin, I'm a new to coding and programming; my background for the pas
 
 Table of Content
 
-- [Reading 1](markdown.md)
+- [Markdown](markdown.md)
+- [Text Editor](text-editor.md)
 
 ## What Does a Growth Mindset Mean to Me?
 
