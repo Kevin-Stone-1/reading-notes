@@ -24,7 +24,7 @@ Markdown is a wonderfully simple way to write easy syntax for formatting plain t
    - Unordered List Item B
    - Unordered List Item C
    
-4. Styling texts: by styling texts you can use the different 
+4. Styling texts: by styling texts you can use different emphasis on words
    - **This is bold** 
        \** ** to BOLD
    - *This is italicized*
