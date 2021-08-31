@@ -36,8 +36,8 @@ Markdown is a wonderfully simple way to write easy syntax for formatting plain t
 With these three basic formatts we can create a simple webpage on GitHub via Markdown. Why don't you try it out yourself?
 
 ### Scenarios
-#### Build an Ordered List with the Heading 4 of Presidents.
+Build an Ordered List with the Heading 4 of Presidents.
 
-#### Build an unordered with three vegetables in it and bold, italicize, and cross through the last one.
+Build an unordered with three vegetables in it and bold, italicize, and cross through the last one.
 
-Great Job! Mission Complete.
+#### Great Job! Mission Complete.
