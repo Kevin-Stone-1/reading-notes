@@ -37,3 +37,5 @@ It starts with:
 3. Browser default
 
 So, when there is an inline style that will be diplayed, but if that is not present then the external and internal style sheets will be displayed, and if there isn't either of those, the browser default will be displayed. This is like a "cascading" effect.
+
+[Home](README.md)
