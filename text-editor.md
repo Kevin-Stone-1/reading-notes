@@ -10,4 +10,8 @@ For the **Code Editor**, one will mostly use this tool for importing and exporti
 
 All in all, the similarities are there, but the highly customizable Code Editor allows for more to be done when writing code and programs.
 
+<<<<<<< HEAD
 [Home](README.md)
+=======
+[Home](README.md)
+>>>>>>> e1be88300e9a3e6d5664ec452732b92d657d0d9d
