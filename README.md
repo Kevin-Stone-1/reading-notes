@@ -10,7 +10,7 @@ Table of Contents
 - [R4 - HTML](html.md)
 - [R5 - CSS](css.md)
 - [R6 - JavaScript](javascript.md)
-- [R7 - ](text-editor.md)
-- [R8 - ](text-editor.md)
+- [R7 - JS Programming](javascript2.md)
+- [R8 - JS Ops & Loops](jsopsnloops.md)
 - [Growth Mindset](growth-mindset.md)
 
