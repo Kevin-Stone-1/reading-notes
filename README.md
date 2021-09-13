@@ -1,8 +1,8 @@
 # Introduction
 
-Hello, I'm Kevin, I'm a new to coding and programming; my background for the past four years has been Aviation Electronics in the US Navy. I enjoy watching and playing sports, playing my guitar, and learning new things. Here is my link to my github portfolio: [Github Profile](https://github.com/kevin-c-stone)
+Hello, I'm Kevin, I'm new to coding and programming; my background for the past four years has been Aviation Electronics in the US Navy. I enjoy watching and playing sports, playing my guitar, and learning new things. Here is my link to my *github* portfolio: [Github Profile](https://github.com/kevin-c-stone)
 
-## Table of Contents Course 102
+## **Code 102 Reading Notes**
 
 - [R1 - Markdown](markdown.md)
 - [R2 - Text Editor](text-editor.md)
@@ -15,7 +15,7 @@ Hello, I'm Kevin, I'm a new to coding and programming; my background for the pas
 - [Growth Mindset](growth-mindset.md)
 
 
-## Table of Contents Course 201
+## **Code 201 Reading Notes**
 
 - [R1 -](markdown.md)
 - [R2 -](markdown.md)
