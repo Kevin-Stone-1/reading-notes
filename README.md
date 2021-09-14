@@ -17,8 +17,8 @@ Hello, I'm Kevin, I'm new to coding and programming; my background for the past 
 
 ## **Code 201 Reading Notes**
 
-- [R1 -](markdown.md)
-- [R2 -](markdown.md)
+- [Reading 1](class-01.md)
+- [Reading 2](class-02.md)
 - [R3 -](markdown.md)
 - [R4 -](markdown.md)
 - [R5 -](markdown.md)
