@@ -40,5 +40,25 @@ Check out some CSS Frameworks and layouts in order to see what you want your sit
 
 
 ## JS Functions, Methods, and Objects
+Functions are very important to how code works. It helps create more helpful code so that the programmer does not need to write so much.
+
+
+### Functions
+
+- Functions help perform a task. It does it by the simple instructions given to it within it.
+- In order for a function to work you need to "call it" or render the function beneath it.
+- The parameters of a function are information that is passed through to the function
+- When you need or want a response from your function it is called a return value.
+
+```
+function greeting() {
+    console.log('Hello and welcome')
+}
+
+greeeting();
+```
+
+This shows you how to write a function in vanilla JavaScript. 
+
 
 [HOME](README.md)
