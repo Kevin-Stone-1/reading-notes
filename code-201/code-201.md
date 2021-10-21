@@ -1,0 +1,17 @@
+## **Code 201 Reading Notes**
+
+- [Reading 1](code-201/class-01.md)
+- [Reading 2](code-201/class-02.md)
+- [Reading 3](code-201/class-03.md)
+- [Reading 4](code-201/class-04.md)
+- [Reading 5](code-201/class-05.md)
+- [Reading 6](code-201/class-06.md)
+- [Reading 7](code-201/class-07.md)
+- [Reading 8](code-201/class-08.md)
+- [Reading 9](code-201/class-09.md)
+- [Reading 10](code-201/class-10.md)
+- [Reading 11](code-201/class-11.md)
+- [Reading 12](code-201/class-12.md)
+- [Reading 13](code-201/class-13.md)
+- [Reading 14a](code-201/class-14a.md)
+- [Reading 14b](code-201/class-14b.md)
