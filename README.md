@@ -21,3 +21,5 @@ Hello, I'm Kevin, I'm new to coding and programming; my background for the past 
 5. React
 6. Git
 7. Bash
+
+## Things I want to know more about
