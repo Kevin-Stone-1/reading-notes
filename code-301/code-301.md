@@ -9,3 +9,5 @@
 - [Reading 7](./code-301/class-07.md)
 - [Reading 8](./code-301/class-08.md)
 - [Reading 9](./code-301/class-09.md)
+- [Reading 10](./code-301/class-10.md)
+- [Reading 11](./code-301/class-11.md)
